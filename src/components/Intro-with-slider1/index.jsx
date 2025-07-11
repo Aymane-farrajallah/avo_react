@@ -105,7 +105,7 @@ const IntroWithSlider1 = ({ sliderRef }) => {
                             </h1>
                           </Split>
                           {slide?.content && <p>{slide.content}</p>}
-                          <Link href="/about/about-dark">
+                          <Link href="/about/about-light">
                             <a className="btn-curve btn-lit mt-30">
                               <span>Look More</span>
                             </a>

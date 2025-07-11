@@ -82,7 +82,7 @@ const ShowcasesShowStyle = () => {
                       <div className="col-lg-10 offset-lg-1">
                         <div className="caption">
                           <h1>
-                            <Link href="/project-details2/project-details2-dark">
+                            <Link href="/project-details2/project-details2-light">
                               <a>
                                 <div
                                   className="stroke"

@@ -1,6 +1,5 @@
 import React from "react";
 import AboutUs1 from "../components/About-us1";
-import BlogsTwoColumnSlider from "../components/Blogs-two-column-slider";
 import CallToAction from "../components/Call-to-action";
 import Clients1 from "../components/Clients1";
 import Footer from "../components/Footer";
@@ -59,7 +58,6 @@ const Homepage1 = () => {
         <VideoWithTestimonials />
         <SkillsCircle theme="light" subBG />
         <Clients1 theme="light" />
-        <BlogsTwoColumnSlider />
         <CallToAction theme="light" img="/img/pattern-light.png" />
         <Footer />
       </div>

@@ -109,16 +109,16 @@ const Works2Slider = ({ subBG }) => {
                           ></div>
                           <div className="cont bgbox">
                             <h6>
-                              <Link href="/works2/works2-dark">
+                              <Link href="/works2/works2-light">
                                 art &amp; illustration
                               </Link>
                             </h6>
                             <h4>
-                              <Link href="/project-details/project-details-dark">
+                              <Link href="/project-details/project-details-light">
                                 <a>Innovation and Crafts.</a>
                               </Link>
                             </h4>
-                            <Link href="/project-details2/project-details2-dark">
+                            <Link href="/project-details2/project-details2-light">
                               <a>
                                 <span className="icon">
                                   <i className="fas fa-plus"></i>
@@ -141,16 +141,16 @@ const Works2Slider = ({ subBG }) => {
                           ></div>
                           <div className="cont bgbox">
                             <h6>
-                              <Link href="/works2/works2-dark">
+                              <Link href="/works2/works2-light">
                                 art &amp; illustration
                               </Link>
                             </h6>
                             <h4>
-                              <Link href="/project-details/project-details-dark">
+                              <Link href="/project-details/project-details-light">
                                 <a>Inspiring new space.</a>
                               </Link>
                             </h4>
-                            <Link href="/project-details2/project-details2-dark">
+                            <Link href="/project-details2/project-details2-light">
                               <a>
                                 <span className="icon">
                                   <i className="fas fa-plus"></i>
@@ -173,16 +173,16 @@ const Works2Slider = ({ subBG }) => {
                           ></div>
                           <div className="cont bgbox">
                             <h6>
-                              <Link href="/works2/works2-dark">
+                              <Link href="/works2/works2-light">
                                 art &amp; illustration
                               </Link>
                             </h6>
                             <h4>
-                              <Link href="/project-details/project-details-dark">
+                              <Link href="/project-details/project-details-light">
                                 <a>Natural plus modern.</a>
                               </Link>
                             </h4>
-                            <Link href="/project-details2/project-details2-dark">
+                            <Link href="/project-details2/project-details2-light">
                               <a>
                                 <span className="icon">
                                   <i className="fas fa-plus"></i>
@@ -205,16 +205,16 @@ const Works2Slider = ({ subBG }) => {
                           ></div>
                           <div className="cont bgbox">
                             <h6>
-                              <Link href="/works2/works2-dark">
+                              <Link href="/works2/works2-light">
                                 art &amp; illustration
                               </Link>
                             </h6>
                             <h4>
-                              <Link href="/project-details/project-details-dark">
+                              <Link href="/project-details/project-details-light">
                                 <a>Innovation and Crafts.</a>
                               </Link>
                             </h4>
-                            <Link href="/project-details2/project-details2-dark">
+                            <Link href="/project-details2/project-details2-light">
                               <a>
                                 <span className="icon">
                                   <i className="fas fa-plus"></i>
@@ -237,16 +237,16 @@ const Works2Slider = ({ subBG }) => {
                           ></div>
                           <div className="cont bgbox">
                             <h6>
-                              <Link href="/works2/works2-dark">
+                              <Link href="/works2/works2-light">
                                 art &amp; illustration
                               </Link>
                             </h6>
                             <h4>
-                              <Link href="/project-details/project-details-dark">
+                              <Link href="/project-details/project-details-light">
                                 <a>Inspiring new space.</a>
                               </Link>
                             </h4>
-                            <Link href="/project-details2/project-details2-dark">
+                            <Link href="/project-details2/project-details2-light">
                               <a>
                                 <span className="icon">
                                   <i className="fas fa-plus"></i>

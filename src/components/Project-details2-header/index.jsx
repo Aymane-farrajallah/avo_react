@@ -36,8 +36,8 @@ const ProjectDetails2Header = () => {
             <div className="item mt-30">
               <h6>Categories</h6>
               <p>
-                <Link href="/works/works-dark">Web Design </Link> ,
-                <Link href="/works/works-dark">WordPress</Link>
+                <Link href="/works/works-light">Web Design </Link> ,
+                <Link href="/works/works-light">WordPress</Link>
               </p>
             </div>
           </div>
@@ -45,9 +45,9 @@ const ProjectDetails2Header = () => {
             <div className="item mt-30">
               <h6>Tags</h6>
               <p>
-                <Link href="/works/works-dark">Minimal</Link> ,
-                <Link href="/works/works-dark">Modern</Link> ,
-                <Link href="/works/works-dark">Design</Link>
+                <Link href="/works/works-light">Minimal</Link> ,
+                <Link href="/works/works-light">Modern</Link> ,
+                <Link href="/works/works-light">Design</Link>
               </p>
             </div>
           </div>

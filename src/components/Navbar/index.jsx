@@ -75,16 +75,16 @@ const Navbar = ({ lr, nr, theme }) => {
                 Showcases
               </span>
               <div className="dropdown-menu">
-                <Link href="/showcase2/showcase2-dark">
+                <Link href="/showcase2/showcase2-light">
                   <a className="dropdown-item">Creative Carousel</a>
                 </Link>
-                <Link href="/showcase3/showcase3-dark">
+                <Link href="/showcase3/showcase3-light">
                   <a className="dropdown-item">Radius Carousel</a>
                 </Link>
               </div>
             </li>
             <li className="nav-item">
-              <Link href="/about/about-dark">
+              <Link href="/about/about-light">
                 <a className="nav-link">About</a>
               </Link>
             </li>
@@ -99,13 +99,13 @@ const Navbar = ({ lr, nr, theme }) => {
                 portfolio
               </span>
               <div className="dropdown-menu">
-                <Link href="/works/works-dark">
+                <Link href="/works/works-light">
                   <a className="dropdown-item">Mouse Info</a>
                 </Link>
               </div>
             </li>
             <li className="nav-item">
-              <Link href="/contact/contact-dark">
+              <Link href="/contact/contact-light">
                 <a className="nav-link">Contact</a>
               </Link>
             </li>
